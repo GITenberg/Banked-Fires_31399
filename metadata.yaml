@@ -1,0 +1,29 @@
+_repo: Banked-Fires_31399
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Savi, E. W. (Ethel Winifred)
+    alias: Savi, Ethel Winifred
+    birthdate: 1865
+    deathdate: 1954
+    gutenberg_agent_id: '35199'
+    url: http://www.gutenberg.org/2009/agents/35199
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'British -- India -- Fiction'
+title: Banked Fires
+url: http://www.gutenberg.org/ebooks/31399
